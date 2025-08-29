@@ -1,6 +1,7 @@
 # Molecular Chemistry Laboratory Simulator
 
 A comprehensive 3D molecular chemistry laboratory simulator built with React, TypeScript, Three.js, and React Three Fiber. This educational platform allows students and researchers to visualize molecules, build chemical structures, simulate reactions, and use virtual laboratory equipment.
+<img width="1927" height="992" alt="image" src="https://github.com/user-attachments/assets/1846c6cb-c8df-4bde-af73-32f06f272fcb" />
 
 ## Features
 
